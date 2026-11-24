@@ -1,6 +1,10 @@
 # One Emoji, One Dream Vacation — 🏝
 
-A make.fun entry: exactly one emoji for my dream vacation.
+[![make.fun · u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35](https://make.fun/badge/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35.svg)](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35?utm_source=github&utm_medium=readme&utm_campaign=u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35)
+[![rank](https://make.fun/badge/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/bagusin03/desert-island-emoji/rank.svg)](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35)
+[![reward](https://make.fun/badge/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35/bagusin03/desert-island-emoji/reward.svg)](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35?utm_source=github&utm_medium=readme&utm_campaign=u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35)
+
+A make.fun entry for the [One Emoji, One Dream Vacation bounty](https://make.fun/bounty/u-grand-elephant-19-one-emoji-one-dream-vacation-62879a35): exactly one emoji for my dream vacation.
 
 The program (`main.ts`) writes a single emoji — 🏝 DESERT ISLAND
 (U+1F3DD) — to `/output/entry.txt`. Nothing else: no text, no newline,
